@@ -1,1 +1,2 @@
-# KOMAL-CLASS-37
+# synchronousBallMovement
+Ball moving synchronously
